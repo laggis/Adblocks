@@ -21,8 +21,12 @@
 ##Doubleclick.net
 
 127.0.0.1 doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 doubleclick.net/
 127.0.0.1 ad.doubleclick.net/
 
+127.0.0.1 www.doubleclick.net
+127.0.0.1 www.ad.doubleclick.net
 127.0.0.1 www.doubleclick.net/
 127.0.0.1 www.ad.doubleclick.net/
 
@@ -37,24 +41,24 @@
 ##Amazon
 
 127.0.0.1 aan.amazon.com
-127.0.0.1 aax.amazon127.0.0.1 adsystem.com
-127.0.0.1 amazon127.0.0.1 adsystem.com
-127.0.0.1 assoc127.0.0.1 amazon.com
-127.0.0.1 c.amazon127.0.0.1 adsystem.com
-127.0.0.1 mads.amazon127.0.0.1 adsystem.com
+127.0.0.1 aax.amazon-adsystem.com
+127.0.0.1 amazon-adsystem.com
+127.0.0.1 assoc-amazon.com
+127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 mads.amazon-adsystem.com
 
 127.0.0.1 www.aan.amazon.com
-127.0.0.1 www.aax.amazon127.0.0.1 adsystem.com
-127.0.0.1 www.amazon127.0.0.1 adsystem.com
-127.0.0.1 www.assoc127.0.0.1 amazon.com
-127.0.0.1 www.c.amazon127.0.0.1 adsystem.com
-127.0.0.1 www.mads.amazon127.0.0.1 adsystem.com
+127.0.0.1 www.aax.amazon-adsystem.com
+127.0.0.1 www.amazon-adsystem.com
+127.0.0.1 www.assoc-amazon.com
+127.0.0.1 www.c.amazon-adsystem.com
+127.0.0.1 www.mads.amazon-adsystem.com
 
 ##Google Analytics
 
-127.0.0.1 google127.0.0.1 analytics.com
+127.0.0.1 google-analytics.com
 
-127.0.0.1 www.google127.0.0.1 analytics.com
+127.0.0.1 www.google-analytics.com
 
 ##Hotjar
 

@@ -1,155 +1,158 @@
-pagead.googlesyndication.com
-pagead2.googlesyndication.com
-static.media.net
-media.net
-media.fastclick.net
-an.amazon.com
-mouseflow.com
-a.mouseflow.com
-notify.bugsnag.com
-sessions.bugsnag.com
-pixel.facebook.com
-analytics.facebook.com
-ads.facebook.com
-ads.linkedin.com
-analytics.pointdrive.linkedin.com
-cdn.luckyorange.com
-settings.luckyorange.net
-upload.luckyorange.net
-ct.pinterest.com
-log.pinterest.com
-w1.luckyorange.com
-trk.pinterest.com
-stats.redditmedia.com
-rereddit.com
-ads.youtube.com
-youtube.cleverads.vn
-analytics.tiktok.com
-ads.yahoo.com
-analytics.yahoo.com
-ads.yap.yahoo.com
-yandexadexchange.net
-analytics.mobile.yandex.net
-extmaps-api.yandex.net
-extmapsapi.yandex.net
-adsdk.yandex.ru
-ad.xiaomi.com 
-app.chat.xiaomi.net
-data.mistat.intl.xiaomi.com
-data.mistat.india.xiaomi.com
-data.mistat.rus.xiaomi.com
-sdkconfig.ad.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
-stat.xiaomi.com
-globalapi.ad.xiaomi.com
-cdn.ad.xiaomi.com
-tracking.miui.com
-sa.api.intl.miui.com
-tracking.miui.com
-tracking.intl.miui.com
-tracking.india.miui.com
-tracking.india.miui.com
-tracking.rus.miui.com
-metrics.data.hicloud.com
-metrics1.data.hicloud.com
-metrics2.data.hicloud.com
-metrics3.data.hicloud.com
-metrics4.data.hicloud.com
-metrics5.data.hicloud.com 
-logservice.hicloud.com
-logservice1.hicloud.com
-metricsdra.dt.hicloud.com
-logbak.hicloud.com
-analytics.oneplus.cn
-click.oneplus.cn
-click.oneplus.com
-open.oneplus.net
-ad.samsungadhub.com
-samsungadhub.com
-ad.samsungads.com
-samsungads.com
-smetrics.samsung.com
-nmetrics.samsung.com
-samsungcom.112.2o7.net
-business.samsungusa.com
-analytics.samsungknox.com
-bigdata.ssp.samsung.com
-analyticsapi.samsunghealthcn.com
-config.samsungads.com
-securemetrics.apple.com
-supportmetrics.apple.com
-metrics.icloud.com
-metrics.mzstatic.com
-pagead.googlesyndication.com
-pagead2.googleadservices.com
-pagead2.googlesyndication.com
-adservetx.media.net
-aan.amazon.com
-doubleclick.net
-an.amazon.com
-hotjar.com
-freshmarketer.com
-notify.bugsnag.com
-sessions.bugsnag.com
-pixel.facebook.com
-analytics.facebook.com
-ads.facebook.com
-ads.pinterest.com
-log.pinterest.com
-analytics.pinterest.com
-ads.reddit.com
-stats.redditmedia.com
-events.redditmedia.com
-ads.tiktok.com
-ads.yahoo.com
-global.adserver.yahoo.com
-analytics.yahoo.com
-appmetrica.yandex.com
-extmapsapi.yandex.net
-api.ad.xiaomi.com
-app.chat.xiaomi.net
-data.mistat.xiaomi.com
-data.mistat.india.xiaomi.com
-data.mistat.rus.xiaomi.com
-sdkconfig.ad.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
-stat.xiaomi.com
-globalapi.ad.xiaomi.com
-cdn.ad.xiaomi.com
-tracking.miui.com
-sa.api.intl.miui.com
-tracking.miui.com
-tracking.intl.miui.com
-tracking.india.miui.com
-tracking.india.miui.com
-tracking.rus.miui.com
-metrics.data.hicloud.com
-metrics1.data.hicloud.com
-metrics2.data.hicloud.com
-metrics3.data.hicloud.com
-metrics4.data.hicloud.com
-metrics5.data.hicloud.com 
-logservice.hicloud.com
-logservice1.hicloud.com
-metricsdra.dt.hicloud.com
-logbak.hicloud.com
-analytics.oneplus.cn
-click.oneplus.cn
-click.oneplus.com
-open.oneplus.net
-ad.samsungadhub.com
-samsungadhub.com
-ad.samsungads.com
-samsungads.com
-smetrics.samsung.com
-nmetrics.samsung.com
-samsungcom.112.2o7.net
-business.samsungusa.com
-analytics.samsungknox.com
-bigdata.ssp.samsung.com
-analyticsapi.samsunghealthcn.com
-config.samsungads.com
-securemetrics.apple.com
-supportmetrics.apple.com
-metrics.icloud.com
-metrics.mzstatic.com
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 static.media.net
+127.0.0.1 media.net
+127.0.0.1 media.fastclick.net
+127.0.0.1 an.amazon.com
+127.0.0.1 mouseflow.com
+127.0.0.1 a.mouseflow.com
+127.0.0.1 notify.bugsnag.com
+127.0.0.1 sessions.bugsnag.com
+127.0.0.1 pixel.facebook.com
+127.0.0.1 analytics.facebook.com
+127.0.0.1 ads.facebook.com
+127.0.0.1 ads.linkedin.com
+127.0.0.1 analytics.pointdrive.linkedin.com
+127.0.0.1 cdn.luckyorange.com
+127.0.0.1 settings.luckyorange.net
+127.0.0.1 upload.luckyorange.net
+127.0.0.1 ct.pinterest.com
+127.0.0.1 log.pinterest.com
+127.0.0.1 w1.luckyorange.com
+127.0.0.1 trk.pinterest.com
+127.0.0.1 stats.redditmedia.com
+127.0.0.1 rereddit.com
+127.0.0.1 ads.youtube.com
+127.0.0.1 youtube.cleverads.vn
+127.0.0.1 analytics.tiktok.com
+127.0.0.1 ads.yahoo.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 ads.yap.yahoo.com
+127.0.0.1 yandexadexchange.net
+127.0.0.1 analytics.mobile.yandex.net
+127.0.0.1 extmaps127.0.0.1api.yandex.net
+127.0.0.1 extmapsapi.yandex.net
+127.0.0.1 adsdk.yandex.ru
+127.0.0.1 ad.xiaomi.com 
+127.0.0.1 app.chat.xiaomi.net
+127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 data.mistat.india.xiaomi.com
+127.0.0.1 data.mistat.rus.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 stat.xiaomi.com
+127.0.0.1 globalapi.ad.xiaomi.com
+127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 sa.api.intl.miui.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 tracking.intl.miui.com
+127.0.0.1 tracking.india.miui.com
+127.0.0.1 tracking.india.miui.com
+127.0.0.1 tracking.rus.miui.com
+127.0.0.1 metrics.data.hicloud.com
+127.0.0.1 metrics1.data.hicloud.com
+127.0.0.1 metrics2.data.hicloud.com
+127.0.0.1 metrics3.data.hicloud.com
+127.0.0.1 metrics4.data.hicloud.com
+127.0.0.1 metrics5.data.hicloud.com 
+127.0.0.1 logservice.hicloud.com
+127.0.0.1 logservice1.hicloud.com
+127.0.0.1 metricsdra.dt.hicloud.com
+127.0.0.1 logbak.hicloud.com
+127.0.0.1 analytics.oneplus.cn
+127.0.0.1 click.oneplus.cn
+127.0.0.1 click.oneplus.com
+127.0.0.1 open.oneplus.net
+127.0.0.1 ad.samsungadhub.com
+127.0.0.1 samsungadhub.com
+127.0.0.1 ad.samsungads.com
+127.0.0.1 samsungads.com
+127.0.0.1 smetrics.samsung.com
+127.0.0.1 nmetrics.samsung.com
+127.0.0.1 samsungcom.112.2o7.net
+127.0.0.1 business.samsungusa.com
+127.0.0.1 analytics.samsungknox.com
+127.0.0.1 bigdata.ssp.samsung.com
+127.0.0.1 analyticsapi.samsunghealthcn.com
+127.0.0.1 config.samsungads.com
+127.0.0.1 securemetrics.apple.com
+127.0.0.1 supportmetrics.apple.com
+127.0.0.1 metrics.icloud.com
+127.0.0.1 metrics.mzstatic.com
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 adservetx.media.net
+127.0.0.1 aan.amazon.com
+127.0.0.1 doubleclick.net
+127.0.0.1 an.amazon.com
+127.0.0.1 hotjar.com
+127.0.0.1 freshmarketer.com
+127.0.0.1 notify.bugsnag.com
+127.0.0.1 sessions.bugsnag.com
+127.0.0.1 pixel.facebook.com
+127.0.0.1 analytics.facebook.com
+127.0.0.1 ads.facebook.com
+127.0.0.1 ads.pinterest.com
+127.0.0.1 log.pinterest.com
+127.0.0.1 analytics.pinterest.com
+127.0.0.1 ads.reddit.com
+127.0.0.1 stats.redditmedia.com
+127.0.0.1 events.redditmedia.com
+127.0.0.1 ads.tiktok.com
+127.0.0.1 ads.yahoo.com
+127.0.0.1 global.adserver.yahoo.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 appmetrica.yandex.com
+127.0.0.1 extmapsapi.yandex.net
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 app.chat.xiaomi.net
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 data.mistat.india.xiaomi.com
+127.0.0.1 data.mistat.rus.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 stat.xiaomi.com
+127.0.0.1 globalapi.ad.xiaomi.com
+127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 sa.api.intl.miui.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 tracking.intl.miui.com
+127.0.0.1 tracking.india.miui.com
+127.0.0.1 tracking.india.miui.com
+127.0.0.1 tracking.rus.miui.com
+127.0.0.1 metrics.data.hicloud.com
+127.0.0.1 metrics1.data.hicloud.com
+127.0.0.1 metrics2.data.hicloud.com
+127.0.0.1 metrics3.data.hicloud.com
+127.0.0.1 metrics4.data.hicloud.com
+127.0.0.1 metrics5.data.hicloud.com 
+127.0.0.1 logservice.hicloud.com
+127.0.0.1 logservice1.hicloud.com
+127.0.0.1 metricsdra.dt.hicloud.com
+127.0.0.1 logbak.hicloud.com
+127.0.0.1 analytics.oneplus.cn
+127.0.0.1 click.oneplus.cn
+127.0.0.1 click.oneplus.com
+127.0.0.1 open.oneplus.net
+127.0.0.1 ad.samsungadhub.com
+127.0.0.1 samsungadhub.com
+127.0.0.1 ad.samsungads.com
+127.0.0.1 samsungads.com
+127.0.0.1 smetrics.samsung.com
+127.0.0.1 nmetrics.samsung.com
+127.0.0.1 samsungcom.112.2o7.net
+127.0.0.1 business.samsungusa.com
+127.0.0.1 analytics.samsungknox.com
+127.0.0.1 bigdata.ssp.samsung.com
+127.0.0.1 analyticsapi.samsunghealthcn.com
+127.0.0.1 config.samsungads.com
+127.0.0.1 securemetrics.apple.com
+127.0.0.1 supportmetrics.apple.com
+127.0.0.1 metrics.icloud.com
+127.0.0.1 metrics.mzstatic.com

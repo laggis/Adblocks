@@ -16,11 +16,11 @@
 
 ##Doubleclick.net
 
-127.0.0.1 doubleclick.net/
-127.0.0.1 ad.doubleclick.net/
+127.0.0.1 doubleclick.net
+127.0.0.1 ad.doubleclick.net
 
-127.0.0.1 www.doubleclick.net/
-127.0.0.1 www.ad.doubleclick.net/
+127.0.0.1 www.doubleclick.net
+127.0.0.1 www.ad.doubleclick.net
 
 ##FastClick
 

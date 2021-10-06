@@ -3,7 +3,7 @@
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 www.pagead.googlesyndication.com
 127.0.0.1 www.pagead2.googlesyndication.com
-127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 www.pagead2.googleadservices.com
 127.0.0.1 static.media.net
 127.0.0.1 media.net
 127.0.0.1 adservetx.media.net

@@ -4,6 +4,10 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pagead2.googleadservices.com
 
+127.0.0.1 www.pagead.googlesyndication.com
+127.0.0.1 www.pagead2.googlesyndication.com
+127.0.0.1 www.pagead2.googleadservices.com
+
 ##Media.net
 
 127.0.0.1 static.media.net
@@ -17,15 +21,18 @@
 ##Doubleclick.net
 
 127.0.0.1 doubleclick.net
-127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad.doubleclick.net/
 
-127.0.0.1 www.doubleclick.net
-127.0.0.1 www.ad.doubleclick.net
+127.0.0.1 www.doubleclick.net/
+127.0.0.1 www.ad.doubleclick.net/
 
 ##FastClick
 
-127.0.0.1 media.fastclick.net/
-127.0.0.1 cdn.fastclick.net/
+127.0.0.1 media.fastclick.net
+127.0.0.1 cdn.fastclick.net
+
+127.0.0.1 www.dmedia.fastclick.net
+127.0.0.1 www.dcdn.fastclick.net
 
 ##Amazon
 
@@ -36,19 +43,34 @@
 127.0.0.1 c.amazon127.0.0.1 adsystem.com
 127.0.0.1 mads.amazon127.0.0.1 adsystem.com
 
+127.0.0.1 www.aan.amazon.com
+127.0.0.1 www.aax.amazon127.0.0.1 adsystem.com
+127.0.0.1 www.amazon127.0.0.1 adsystem.com
+127.0.0.1 www.assoc127.0.0.1 amazon.com
+127.0.0.1 www.c.amazon127.0.0.1 adsystem.com
+127.0.0.1 www.mads.amazon127.0.0.1 adsystem.com
+
 ##Google Analytics
 
 127.0.0.1 google127.0.0.1 analytics.com
+
+127.0.0.1 www.google127.0.0.1 analytics.com
 
 ##Hotjar
 
 127.0.0.1 hotjar.com
 127.0.0.1 static.hotjar.com
 
+127.0.0.1 www.hotjar.com
+127.0.0.1 www.static.hotjar.com
+
 ##MouseFlow
 
-127.0.0.1 mouseflow.com/
+127.0.0.1 mouseflow.com
 127.0.0.1 a.mouseflow.com
+
+127.0.0.1 www.mouseflow.com
+127.0.0.1 www.a.mouseflow.com
 
 ##FreshMarketer
 
@@ -59,18 +81,32 @@
 127.0.0.1 cs.luckyorange.net
 127.0.0.1 settings.luckyorange.net
 
+127.0.0.1 www.freshmarketer.com/
+127.0.0.1 www.cdn.luckyorange.com
+127.0.0.1 www.w1.luckyorange.com
+127.0.0.1 www.upload.luckyorange.net
+127.0.0.1 www.cs.luckyorange.net
+127.0.0.1 www.settings.luckyorange.net
+
 ##Stats WP Plugin
 
 127.0.0.1 stats.wp.com
+
+127.0.0.1 www.stats.wp.com
 
 ##Bugsnag
 
 127.0.0.1 notify.bugsnag.com
 127.0.0.1 sessions.bugsnag.com
 
+127.0.0.1 www.notify.bugsnag.com
+127.0.0.1 www.sessions.bugsnag.com
+
 ##Sentry
 
 127.0.0.1 browser.sentry127.0.0.1 cdn.com
+
+127.0.0.1 www.browser.sentry127.0.0.1 cdn.com
 
 ##Facebook
 
@@ -78,15 +114,25 @@
 127.0.0.1 analytics.facebook.com
 127.0.0.1 ads.facebook.com
 
+127.0.0.1 www.pixel.facebook.com
+127.0.0.1 www.analytics.facebook.com
+127.0.0.1 www.ads.facebook.com
+
 ##Twitter
 
 127.0.0.1 ads127.0.0.1 twitter.com
 127.0.0.1 static.ads127.0.0.1 twitter.com
 
+127.0.0.1 www.ads127.0.0.1 twitter.com
+127.0.0.1 www.static.ads127.0.0.1 twitter.com
+
 ##Linkedin
 
 127.0.0.1 ads.linkedin.com
 127.0.0.1 analytics.pointdrive.linkedin.com
+
+127.0.0.1 www.ads.linkedin.com
+127.0.0.1 www.analytics.pointdrive.linkedin.com
 
 ##Pinterest
 
@@ -96,6 +142,12 @@
 127.0.0.1 analytics.pinterest.com
 127.0.0.1 trk.pinterest.com
 
+127.0.0.1 www.ads.pinterest.com
+127.0.0.1 www.log.pinterest.com
+127.0.0.1 www.ct.pinterest.com
+127.0.0.1 www.analytics.pinterest.com
+127.0.0.1 www.trk.pinterest.com
+
 ##Redit
 
 127.0.0.1 ads.reddit.com
@@ -103,16 +155,26 @@
 127.0.0.1 rereddit.com
 127.0.0.1 events.redditmedia.com
 
+127.0.0.1 www.ads.reddit.com
+127.0.0.1 www.stats.redditmedia.com
+127.0.0.1 www.rereddit.com
+127.0.0.1 www.events.redditmedia.com
+
 ##Youtube
 
 127.0.0.1 ads.youtube.com
 127.0.0.1 youtube.cleverads.vn
+
+127.0.0.1 www.ads.youtube.com
+127.0.0.1 www.youtube.cleverads.vn
 
 ##Tiktok
 
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 ads.tiktok.com
 
+127.0.0.1 www.analytics.tiktok.com
+127.0.0.1 www.ads.tiktok.com
 
 ##yahoo
 
@@ -121,6 +183,11 @@
 127.0.0.1 analytics.yahoo.com
 127.0.0.1 ads.yap.yahoo.com
 
+127.0.0.1 www.ads.yahoo.com
+127.0.0.1 www.global.adserver.yahoo.com
+127.0.0.1 www.analytics.yahoo.com
+127.0.0.1 www.ads.yap.yahoo.com
+
 ##Yandex
 
 127.0.0.1 appmetrica.yandex.com
@@ -128,6 +195,12 @@
 127.0.0.1 analytics.mobile.yandex.net
 127.0.0.1 extmaps127.0.0.1 api.yandex.net
 127.0.0.1 adsdk.yandex.ru
+
+127.0.0.1 www.appmetrica.yandex.com
+127.0.0.1 www.yandexadexchange.net
+127.0.0.1 www.analytics.mobile.yandex.net
+127.0.0.1 www.extmaps127.0.0.1 api.yandex.net
+127.0.0.1 www.adsdk.yandex.ru
 
 ##Xiaomi
 
@@ -148,6 +221,23 @@
 127.0.0.1 tracking.india.miui.com
 127.0.0.1 tracking.rus.miui.com
 
+127.0.0.1 www.ad.xiaomi.com
+127.0.0.1 www.api.ad.xiaomi.com
+127.0.0.1 www.app.chat.xiaomi.net
+127.0.0.1 www.data.mistat.xiaomi.com
+127.0.0.1 www.data.mistat.intl.xiaomi.com
+127.0.0.1 www.data.mistat.india.xiaomi.com
+127.0.0.1 www.data.mistat.rus.xiaomi.com
+127.0.0.1 www.sdkconfig.ad.xiaomi.com
+127.0.0.1 www.sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 www.stat.xiaomi.com
+127.0.0.1 www.globalapi.ad.xiaomi.com
+127.0.0.1 www.cdn.ad.xiaomi.com
+127.0.0.1 www.tracking.intl.miui.com
+127.0.0.1 www.tracking.miui.com
+127.0.0.1 www.tracking.india.miui.com
+127.0.0.1 www.tracking.rus.miui.com
+
 ##Huawei
 
 127.0.0.1 metrics.data.hicloud.com
@@ -161,12 +251,29 @@
 127.0.0.1 metrics127.0.0.1 dra.dt.hicloud.com
 127.0.0.1 logbak.hicloud.com
 
+127.0.0.1 www.metrics.data.hicloud.com
+127.0.0.1 www.metrics1.data.hicloud.com
+127.0.0.1 www.metrics2.data.hicloud.com
+127.0.0.1 www.metrics3.data.hicloud.com
+127.0.0.1 www.metrics4.data.hicloud.com
+127.0.0.1 www.metrics5.data.hicloud.com
+127.0.0.1 www.logservice.hicloud.com
+127.0.0.1 www.logservice1.hicloud.com
+127.0.0.1 www.metrics127.0.0.1 dra.dt.hicloud.com
+127.0.0.1 www.logbak.hicloud.com
+
 ##OnePlus
 
 127.0.0.1 analytics.oneplus.cn
 127.0.0.1 click.oneplus.cn
 127.0.0.1 click.oneplus.com
 127.0.0.1 open.oneplus.net
+
+127.0.0.1 www.analytics.oneplus.cn
+127.0.0.1 www.click.oneplus.cn
+127.0.0.1 www.click.oneplus.com
+127.0.0.1 www.open.oneplus.net
+
 
 ##Samsung
 
@@ -183,10 +290,29 @@
 127.0.0.1 analytics127.0.0.1 api.samsunghealthcn.com
 127.0.0.1 config.samsungads.com
 
+127.0.0.1 www.ad.samsungadhub.com
+127.0.0.1 www.samsungadhub.com
+127.0.0.1 www.ad.samsungads.com
+127.0.0.1 www.samsungads.com
+127.0.0.1 www.smetrics.samsung.com
+127.0.0.1 www.nmetrics.samsung.com
+127.0.0.1 www.samsung127.0.0.1 com.112.2o7.net
+127.0.0.1 www.business.samsungusa.com
+127.0.0.1 www.analytics.samsungknox.com
+127.0.0.1 www.bigdata.ssp.samsung.com
+127.0.0.1 www.analytics127.0.0.1 api.samsunghealthcn.com
+127.0.0.1 www.config.samsungads.com
+
 ## Apple
 
-127.0.0.1 metrics.apple.com
-127.0.0.1 securemetrics.apple.com
-127.0.0.1 supportmetrics.apple.com
-127.0.0.1 metrics.icloud.com
-127.0.0.1 metrics.mzstatic.com
+127.0.0.1 www.metrics.apple.com
+127.0.0.1 www.securemetrics.apple.com
+127.0.0.1 www.supportmetrics.apple.com
+127.0.0.1 www.metrics.icloud.com
+127.0.0.1 www.metrics.mzstatic.com
+
+127.0.0.1 www.metrics.apple.com
+127.0.0.1 www.securemetrics.apple.com
+127.0.0.1 www.supportmetrics.apple.com
+127.0.0.1 www.metrics.icloud.com
+127.0.0.1 www.metrics.mzstatic.com

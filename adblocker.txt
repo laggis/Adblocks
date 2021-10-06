@@ -1,6 +1,5 @@
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 static.media.net
 0.0.0.0 media.net
 0.0.0.0 adservetx.media.net
@@ -10,7 +9,6 @@
 0.0.0.0 hotjar.com
 0.0.0.0 mouseflow.com/
 0.0.0.0 a.mouseflow.com
-
 0.0.0.0 freshmarketer.com/
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com

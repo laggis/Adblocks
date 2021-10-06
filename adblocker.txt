@@ -6,9 +6,13 @@
 
 ##Media.net
 
-127.0.0.1 https://static.media.net
+127.0.0.1 static.media.net
 127.0.0.1 media.net
 127.0.0.1 adservetx.media.net
+
+127.0.0.1 www.static.media.net
+127.0.0.1 www.media.net
+127.0.0.1 www.adservetx.media.net
 
 ##Doubleclick.net
 

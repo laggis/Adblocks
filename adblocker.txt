@@ -31,7 +31,6 @@
 ||notify.bugsnag.com
 ||sessions.bugsnag.com
 ||browser.sentry-cdn.com
-||www.browser.sentry-cdn.com
 ||pixel.facebook.com
 ||analytics.facebook.com
 ||ads.facebook.com
@@ -50,12 +49,8 @@
 ||events.redditmedia.com
 ||ads.youtube.com
 ||youtube.cleverads.vn
-||www.ads.youtube.com
-||www.youtube.cleverads.vn
 ||analytics.tiktok.com
 ||ads.tiktok.com
-||www.analytics.tiktok.com
-||www.ads.tiktok.com
 ||ads.yahoo.com
 ||global.adserver.yahoo.com
 ||analytics.yahoo.com
@@ -76,7 +71,6 @@
 ||sdkconfig.ad.intl.xiaomi.com
 ||stat.xiaomi.com
 ||globalapi.ad.xiaomi.com
-||www.cdn.ad.xiaomi.com
 ||tracking.intl.miui.com
 ||tracking.miui.com
 ||tracking.india.miui.com

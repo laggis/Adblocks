@@ -6,6 +6,7 @@
 ||adservetx.media.net^
 ||doubleclick.net^
 ||ad.doubleclick.net^
+||aiwigame.com^
 ||doubleclick.net^
 ||ad.doubleclick.net^
 ||media.fastclick.net^
